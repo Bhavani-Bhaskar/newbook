@@ -1,6 +1,12 @@
 Course Title: Statistics Foundations 1: The Basics by bhaskar7
 
-Description: Statistics is not just the realm of data scientists. 
+Description: Statistics is not just the realm of data scientists.
+
+
+
+
+
+
 All types of jobs use statistics. Statistics are important for making decisions, new discoveries, investments, and predictions. 
 Whether the subject is political races, sports rankings, shopping trends, or healthcare advancements, statistics is an instrument for understanding your favorite topic at a deeper level. 
 In this course, Professor Eddie Davila offers beginner-level lessons, so you too can master the terms, formulas, and techniques needed to perform the most common types of statistics.  
